@@ -121,6 +121,7 @@
 - [Bufford Sta Maria](https://github.com/bufford99)
 - Akriti Katiyar
 	[Max Esser](https://github.com/max-esser)
+- Bill Coldren
 - [William Ciesialka](https://github.com/wciesialka)
 - Asil Mian
 - [Bruno Martins](https://github.com/bruno-b-martins)
